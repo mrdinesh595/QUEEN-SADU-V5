@@ -14,7 +14,7 @@ module.exports = {
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "true",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/xdMvP3XZ/In-Shot-20241222-002123636.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "*<<࿐𝐇𝐄𝐋𝐋𝐎𝐖 𝐖𝐄𝐂𝐎𝐌𝐄࿐>>*               ɪᴍ qᴜᴇᴇɴ ꜱᴀᴅᴜ ᴡʜᴀᴛꜱᴀᴩᴩ ʙᴏᴛɪᴍ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴀʟɪᴠᴇ               𝐈 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐝𝐞𝐯𝐨𝐥𝐨𝐩 𝐛𝐲 𝐝𝐢𝐧𝐞𝐬𝐡                    Live bot (https://chat.whatsapp.com/EMRQDL2ANWlJcvs1nw90mv)                    News-i (https://chat.whatsapp.com/EMRQDL2ANWlJcvs1nw90mv)                       *🌹⃝✥⃟𝐃𝐈𝐍𝐄𝐒𝐇 𝐎𝐅𝐂🍃⃟✦⃝🌼᭄᭄̊̊̊̊🙂🤍*               *▭▭▭▭▭▭▬▬▬▬▬▬*                  ◆━━━━━◆❃◆━━━━━◆ ",
+    ALIVE_MSG: process.env.ALIVE_MSG || "*<<࿐𝐇𝐄𝐋𝐋𝐎𝐖 𝐖𝐄𝐂𝐎𝐌𝐄࿐>>*                                           ɪᴍ qᴜᴇᴇɴ ꜱᴀᴅᴜ ᴡʜᴀᴛꜱᴀᴩᴩ ʙᴏᴛɪᴍ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴀʟɪᴠᴇ                                      𝐈 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐝𝐞𝐯𝐨𝐥𝐨𝐩 𝐛𝐲 𝐝𝐢𝐧𝐞𝐬𝐡                                   Live bot (https://chat.whatsapp.com/EMRQDL2ANWlJcvs1nw90mv)                                       News-i (https://chat.whatsapp.com/EMRQDL2ANWlJcvs1nw90mv)                                        *🌹⃝✥⃟𝐃𝐈𝐍𝐄𝐒𝐇 𝐎𝐅𝐂🍃⃟✦⃝🌼᭄᭄̊̊̊̊🙂🤍*                                 *▭▭▭▭▭▭▬▬▬▬▬▬*                  ◆━━━━━◆❃◆━━━━━◆ ",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
