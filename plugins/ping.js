@@ -27,7 +27,7 @@ l(e)
 
 cmd({
     pattern: "ping",
-    react: "SANA_MD",
+    react: "QUEEN SADU",
     alias: ["speed"],
     desc: "Check bot\'s ping",
     category: "main",
