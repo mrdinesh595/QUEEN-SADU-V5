@@ -55,7 +55,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING QUEEN SADU_MD BOT🧬...");
+console.log("CONNECTING QUEEN-SADU_MD BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -86,7 +86,7 @@ console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
 console.log('TOHID_MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `
-*[ •  QUEEN SADU- STARTED‎ • ]*
+*[ •  QUEEN-SADU- STARTED‎ • ]*
 *╭┈───────────────•*
 *│  ◦* *_Congratulations Your Bot Active Successfully_*
 *│  ◦*
@@ -108,7 +108,7 @@ let up = `
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴅɪɴᴇꜱʜ
 *•────────────•⟢*
 `;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/xdMvP3XZ/In-Shot-20241222-002123636.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/nqCsIHZ.jpeg` }, caption: up })
 
 }
 })
@@ -309,7 +309,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, QUEEN SADU STARTED ✅");
+res.send("HEY QUEEN-SADU_MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
